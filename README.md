@@ -1,1 +1,1 @@
-[![kyiree's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyiree)](https://github.com/anuraghazra/github-readme-stats)
+![kyiree's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyiree&show_icons=true&theme=radical)
